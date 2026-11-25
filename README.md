@@ -20,7 +20,7 @@
 ### the toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,ts,react,vite,tailwind,postgres,supabase,sqlite,fastapi,git,vscode&perline=12" alt="C++, Python, TypeScript, React, Vite, Tailwind, Postgres, Supabase, SQLite, FastAPI, Git, VS Code" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,ts,react,vite,tailwind,postgres,supabase,sqlite,fastapi,git,vscode&perline=13" alt="C, C++, Python, TypeScript, React, Vite, Tailwind, Postgres, Supabase, SQLite, FastAPI, Git, VS Code" />
 </p>
 
 ### things i made (go on, click one)
@@ -52,6 +52,14 @@
       <h4><a href="https://github.com/rushipatel296/Cf">Codeforces Dojo</a></h4>
       My C++ solutions, from the CP-31 sheet (800 to 1500) to live contests, laid out like a trophy shelf.
       <br/><a href="https://rushipatel296.github.io/Cf/"><b>browse it →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://rushipatel296.github.io/compiler-construction/"><img align="left" width="50%" src="https://github.com/rushipatel296/compiler-construction/raw/main/docs/screenshot.png" alt="Compiler Playground" /></a>
+      <h4><a href="https://github.com/rushipatel296/compiler-construction">Compiler Playground</a></h4>
+      A tiny compiler in Flex, Bison and C: tokens, syntax tree, three-address code, then it actually runs your program. The whole thing is compiled to WebAssembly, so it runs right in the browser.
+      <br/><a href="https://rushipatel296.github.io/compiler-construction/"><b>play with it →</b></a>
     </td>
   </tr>
 </table>
