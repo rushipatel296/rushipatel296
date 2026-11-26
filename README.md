@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=560&lines=hi%2C+i'm+rushi.;i+build+things+that+actually+work.;databases+with+rules.+graphs+with+cliques.;and+trip+plans+out+of+group+chats." alt="hi, i'm rushi" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=720&lines=hi%2C+i'm+rushi.;i+build+things+that+actually+work.;databases+with+rules.+graphs+with+cliques.;and+trip+plans+out+of+group+chats." alt="hi, i'm rushi" />
 
 *welcome to my workshop. mind the wires, some of them are still warm.*
 
